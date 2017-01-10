@@ -5,6 +5,10 @@
 	</head>
 	<body>
 		<img src="img/sandia_peak_abqnight.jpg">
+		<h1>
+		!!!ADAM PEDROZA!!!
+		</h1>
+		<br>
 		<p>Hey, how's it going my name is Adam Pedroza and this is a pic I took of Tokyo, Japan when I was traveling for my post-grad thesis (in modern Japanese architecture).
 		I have been certified as a "Genius" since I was three years old. Life as a genius has it's ups and downs, but generally it's pretty cool. My day to day consists of being a total badass and accomplishing all my hopes and dreams.
 		</p>
