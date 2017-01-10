@@ -6,7 +6,7 @@
 	<body>
 		<img src="img/sandia_peak_abqnight.jpg">
 		<h1>
-		!!!ADAM PEDROZA!!!
+		ADAM PEDROZA! (insert several emojis here)
 		</h1>
 		<br>
 		<p>Hey, how's it going my name is Adam Pedroza and this is a pic I took of Tokyo, Japan when I was traveling for my post-grad thesis (in modern Japanese architecture).
